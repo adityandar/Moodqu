@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1022053319316",
+    "firebase_url": "https://moodqu-app.firebaseio.com",
+    "project_id": "moodqu-app",
+    "storage_bucket": "moodqu-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022053319316:android:e62ba7e0963e4a79e22a81",
+        "android_client_info": {
+          "package_name": "xyz.adityandar.moodqu_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022053319316-ht9hv8rc1jdpparo7j2i19phq0m16spe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW1ZAzuYZsCWwM8OnWzlykVQi2wFsomR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022053319316-ht9hv8rc1jdpparo7j2i19phq0m16spe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
